@@ -13,7 +13,7 @@ static int draw_input = 1;                    /* -noi option; if 0, the input wi
 
 /* -fn option overrides fonts[0]; default X11 font or font set */
 static const char *fonts[] = {
-	"CaskaydiaCove Nerd Font:size=12"
+	"CaskaydiaCove Nerd Font:size=14"
 };
 static const char *prompt      = NULL;      /* -p  option; prompt to the left of input field */
 
